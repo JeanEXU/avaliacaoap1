@@ -1,0 +1,11 @@
+git status
+//git status serve para ver se tem atualizaçoes no repositorio.
+
+git add .
+//git add . empacota todas as atualizaçoes.
+
+git commit -m "txt"
+//colocar uma descriçao no pacote.
+
+git push
+//envia o pacote para repositorio remoto.
