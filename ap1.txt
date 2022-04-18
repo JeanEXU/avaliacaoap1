@@ -1,0 +1,13 @@
+git clone https://github.com/JeanEXU/avaliacaoap1.git 
+Ele traz o repositorio remoto para o local.
+
+
+
+
+
+
+
+
+
+
+ 
